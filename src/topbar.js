@@ -35,7 +35,7 @@ export default  function Topbar(){
                                             placeholder="Search for..." aria-label="Search"
                                             aria-describedby="basic-addon2"/>
                                         <div class="input-group-append">
-                                           <a class="btn btn-primary" type="button">
+                                           <a class="btn btn-primary"href="index.html" type="button">
                                                 <i class="fas fa-search fa-sm"></i>
                                            </a>
                                         </div>

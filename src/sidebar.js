@@ -89,7 +89,7 @@ return(<>
             <hr class="sidebar-divider d-none d-md-block" />
 
             <div class="text-center d-none d-md-inline">
-               <a class="rounded-circle border-0" id="sidebarToggle"></a>
+               <a class="rounded-circle border-0" href="index.html" id="sidebarToggle"></a>
             </div>
             <div class="sidebar-card d-none d-lg-flex">
                 <img class="sidebar-card-illustration mb-2" src="img/undraw_rocket.svg" alt="..." />
