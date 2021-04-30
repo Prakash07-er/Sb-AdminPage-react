@@ -10,7 +10,7 @@ export default function Illustration (){
                                 src="img/undraw_posting_photo.svg" alt="..."/>
                         </div>
                         <p>Add some quality, svg illustrations to your project courtesy of<a
-                                 rel="nofollow" href="https://undraw.co/">unDraw</a>, a
+                                 href="https://undraw.co/">unDraw</a>, a
                             constantly updated collection of beautiful svg images that you can use
                             completely free and without attribution!</p>
                        <a  href="index.html">Browse Illustrations on
